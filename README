@@ -1,0 +1,4 @@
+
+This repository is used to hold some helper scripts that I use.  
+
+Gstreamer1.4.4 contains a build script gbuild.sh that will pull and build everything needed to pull, build, and install gstreamer 1.4.4 to the "/opt/" directory .
